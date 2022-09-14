@@ -3,3 +3,4 @@ dezső
 50 pénz
 70 éves
 rántott hús
+sprite

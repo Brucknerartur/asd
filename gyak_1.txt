@@ -2,4 +2,5 @@ a
 andrás
 100 pénz
 34 éves
-pizza         
+pizza
+víz         
