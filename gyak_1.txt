@@ -1,4 +1,5 @@
 a
 andrás
 100 pénz
-34 éves         
+34 éves
+pizza         
